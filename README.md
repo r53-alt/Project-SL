@@ -3,7 +3,7 @@
 1. Скачайте релиз 📦
 Перейдите по ссылке:
 🔗 https://github.com/r53-alt/Project-SL/releases
-Скачайте самый свежий релиз Project SL Launcher 2.0.0
+Скачайте самый свежий релиз Project SL Launcher 
 
 2. Создайте папку на рабочем столе 🖥️
 
